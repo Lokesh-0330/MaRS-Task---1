@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <math.h>
 
-// Standard PI value for degree to radian conversion
+// Standard PI value
 #define PI 3.14159265358979323846
 
 int main() {
-    /* 1. INPUT DATA FROM TASK  */
+    // 1. INPUT DATA FROM TASK
     // Object in Camera Frame
     double x_cam = 2.0, y_cam = 1.0, z_cam = 3.0; 
     
@@ -15,7 +15,7 @@ int main() {
     // Rover rotation (degrees) - focusing on Z-axis for 2D terrain navigation
     double z_angle = 45.0; 
 
-    /* 2. CORE LOGIC */
+    // 2. CORE LOGIC
     // Convert degrees to radians for math.h functions
     double rad = z_angle * (PI / 180.0);
 
@@ -31,7 +31,7 @@ int main() {
     double y_world = y_rot + y_rov;
     double z_world = z_rot + z_rov;
 
-    /* 3. OUTPUT [cite: 75-77] */
+    // 3. OUTPUT [cite: 75-77]
     printf("--- Coordinate Transformation Result ---\n");
     printf("Object Position in World Frame:\n");
     printf("X_world: %.2f\n", x_world);
