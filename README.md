@@ -73,4 +73,3 @@ $$D = \frac{W \times f}{w}$$
 
 ## 5. Terminal Outputs (Mission Logs)
 
-### 
