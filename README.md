@@ -73,3 +73,21 @@ $$D = \frac{W \times f}{w}$$
 
 ## 5. Terminal Outputs (Mission Logs)
 
+### - Easy Dose
+* **Linux Commands:**
+
+* * **Rover system check:** 
+
+### Medium Doses: 
+* **Med 1 (Coordinate Transform):** 
+
+* **Med 2 and 3 (Decryption):**
+
+* **Med 4 (Signal Filtering):** 
+
+* **Med 5 (Arm Optimization):**
+
+### Hard Doses:
+* **Hard 1 (Arena Navigation):**
+
+* **Hard 2 (Vision):**
