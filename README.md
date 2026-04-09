@@ -80,14 +80,30 @@ $$D = \frac{W \times f}{w}$$
 
 ### Medium Doses: 
 * **Med 1 (Coordinate Transform):** 
+<img width="512" height="104" alt="image" src="https://github.com/user-attachments/assets/22eaa57d-6d0c-47d3-9299-ac09ced97c01" />
 
-* **Med 2 and 3 (Decryption):**
+* **Med 2 (Decryption):**
+<img width="425" height="37" alt="image" src="https://github.com/user-attachments/assets/04ffab77-ed4a-4a7f-9e9a-19a6842874ae" />
+
+* **Med 3 (Decryption):**
+<img width="504" height="27" alt="image" src="https://github.com/user-attachments/assets/1db5d4ec-577c-4786-8cab-a4177f28a9fd" />
 
 * **Med 4 (Signal Filtering):** 
+<img width="479" height="33" alt="image" src="https://github.com/user-attachments/assets/9f4b4e9e-0ab5-469d-8de1-21f7afff425c" />
 
 * **Med 5 (Arm Optimization):**
+<img width="517" height="102" alt="image" src="https://github.com/user-attachments/assets/a1c0c68b-d8b1-4121-8db1-b28d0f2db47b" />
 
 ### Hard Doses:
 * **Hard 1 (Arena Navigation):**
+<img width="536" height="477" alt="image" src="https://github.com/user-attachments/assets/2ef4bd50-c8bf-4241-9b30-3ddb4854ac67" />
 
 * **Hard 2 (Vision):**
+<img width="415" height="108" alt="image" src="https://github.com/user-attachments/assets/7ed4a39b-ed1a-43b0-9bd1-5a465a3e6373" />
+
+## 6. Git Commands log
+<img width="933" height="369" alt="image" src="https://github.com/user-attachments/assets/f3048f83-6eb4-49da-b4a9-df9a0b377a1e" />
+<img width="622" height="321" alt="image" src="https://github.com/user-attachments/assets/f9fc62ab-2096-461b-8bb3-6e69fecb3350" />
+<img width="858" height="572" alt="image" src="https://github.com/user-attachments/assets/16baf368-e18f-4c7b-b891-2e7c53bc6c9d" />
+<img width="821" height="654" alt="image" src="https://github.com/user-attachments/assets/c237901f-36b7-4f58-a2d5-8a7775df4883" />
+<img width="869" height="631" alt="image" src="https://github.com/user-attachments/assets/b558f590-062f-483e-ba23-aeaf596ac34a" />
